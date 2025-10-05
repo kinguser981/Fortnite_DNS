@@ -1,4 +1,7 @@
 # it's an App for fortnite Players to find the best DNS server for lowest ping,
+
+![](https://s3.bmp.ovh/imgs/2025/10/05/051eae52c3828627.png)
+
 ## and although You can find the best DNS for For different location. You can check the packet loss. Or anything related to Fortnite.
 
 ## Release Notes
