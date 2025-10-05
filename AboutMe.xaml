@@ -73,6 +73,7 @@ HorizontalOptions="Center" />
  Padding="1"
  VerticalOptions="Center"
  HorizontalOptions="Center"
+        FlowDirection="LeftToRight"
  >
 
         <Label
@@ -113,6 +114,7 @@ HorizontalOptions="Center" />
 Padding="1"
 VerticalOptions="Center"
 HorizontalOptions="Center"
+            FlowDirection="LeftToRight"
 >
 
             <Label

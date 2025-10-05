@@ -53,6 +53,7 @@
                   >
             <Label 
               x:Name="PingResultsLabel"
+              FlowDirection="LeftToRight"
               Text="Press the button to start the ping test"
               FontFamily="monospace"
               TextColor="#00FF00"

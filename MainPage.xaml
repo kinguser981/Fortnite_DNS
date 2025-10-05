@@ -75,6 +75,7 @@
                 <Label 
                  x:Name="SelectedItemLabel"
                  Text="Status:"
+                 FlowDirection="LeftToRight"
                  VerticalOptions="Fill"
                  HorizontalOptions="Fill"
                  WidthRequest="370"
@@ -87,7 +88,7 @@
 
             <ListView
                 x:Name="MyListView"
-                
+                FlowDirection="LeftToRight"
                 VerticalOptions="Fill"
                 VerticalScrollBarVisibility="Never"
                 HorizontalOptions="Fill"
