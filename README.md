@@ -4,6 +4,22 @@
 
 ## and although You can find the best DNS for For different location. You can check the packet loss. Or anything related to Fortnite.
 
+
+# Features
+```
+- Available for Android and Windows.
+- You can find the best DNS for different location.
+- You can see your ping and packet loss on Different location.
+- Copy DNS To the clipboard with one Click.
+- 80 different DNS for test.
+- Powered by .NET Multi-platform App UI
+- Open source
+- Material UI.
+- so fast
+- u can compile it for Mac and ios
+- (i cant compile it for ios or Mac . ask apple why?)
+```
+
 ## Release Notes
 ```
 = 2025-10-04
@@ -12,22 +28,8 @@
 - fix UI
 - fix UX
 - improved performance
-
-
-
 ```
 
-
-# Features
-```
-- Powered by .NET Multi-platform App UI
-- Open source
-- so fast
-- u can compile it for Mac and ios
-- now it's only available for Android and Windows
-
-
-```
 
 
 
