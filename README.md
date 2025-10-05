@@ -45,8 +45,10 @@ https://dotnet.microsoft.com/en-us/download/dotnet/10.0
 Can be downloaded at [Release](../../releases)
 
 
-
-
+## Enter this command in to powershell after changing dns!
+```
+ipconfig /flushdns
+```
 
 
 ## Reference and Credits
