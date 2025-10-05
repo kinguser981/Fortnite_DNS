@@ -58,15 +58,6 @@
                     
                     />
 
-
-                
-             
-               
-                
-                
-                
-                
-       
             
             <Button
                 x:Name="CounterBtn"
@@ -120,6 +111,10 @@
   
             </ListView>
 
+            <Label
+                Text=" "
+                FontSize="Small"
+                ></Label>
 
         </VerticalStackLayout>
     </ScrollView>
