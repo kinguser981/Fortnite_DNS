@@ -34,7 +34,7 @@
 
 
 ## Requirements 
-Download .NET 10.0 for Mac and Windows :
+Download (.NET Desktop Runtime) for Windows :
 https://dotnet.microsoft.com/en-us/download/dotnet/10.0
 
 
@@ -55,4 +55,3 @@ Can be downloaded at [Release](../../releases)
 - Gemini.Google
 - Millie as Tester in Europe 
 - Epic Games for links and Fortnite
-- 
