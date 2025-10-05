@@ -11,7 +11,7 @@
 - You can find the best DNS for different location.
 - You can see your ping and packet loss on Different location.
 - Copy DNS To the clipboard with one Click.
-- 80 different DNS for test.
+- 80 different DNS server for test.
 - Powered by .NET Multi-platform App UI
 - Open source
 - Material UI.
