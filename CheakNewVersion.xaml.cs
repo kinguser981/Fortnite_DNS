@@ -11,7 +11,7 @@ namespace MauiApp2;
     // === CONFIGURATION ===
         private const string RepoOwner = "kinguser981";
         private const string RepoName = "Fortnite_DNS";
-        private static readonly Version LocalVersion = new Version("3.0.0");
+        private static readonly Version LocalVersion = new Version("3.1.0");
     // =====================
  
     public CheakNewVersion()

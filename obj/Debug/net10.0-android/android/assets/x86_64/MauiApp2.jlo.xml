@@ -9,7 +9,7 @@
     <type name="MainApplication" package="crc6452f1ea43b9adf718" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="MauiApp2.MainApplication, MauiApp2" application_constructor="MainApplication" />
   </jcw-types>
   <acw-types partial-assembly-name="MauiApp2" module-name="MauiApp2.dll">
-    <type assembly-qualified-name="MauiApp2.MainActivity, MauiApp2, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="mauiapp2.MainActivity" java-key="crc6452f1ea43b9adf718.MainActivity" managed-key="MauiApp2.MainActivity" partial-assembly-qualified-name="MauiApp2.MainActivity, MauiApp2" />
-    <type assembly-qualified-name="MauiApp2.MainApplication, MauiApp2, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="mauiapp2.MainApplication" java-key="crc6452f1ea43b9adf718.MainApplication" managed-key="MauiApp2.MainApplication" partial-assembly-qualified-name="MauiApp2.MainApplication, MauiApp2" />
+    <type assembly-qualified-name="MauiApp2.MainActivity, MauiApp2, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="mauiapp2.MainActivity" java-key="crc6452f1ea43b9adf718.MainActivity" managed-key="MauiApp2.MainActivity" partial-assembly-qualified-name="MauiApp2.MainActivity, MauiApp2" />
+    <type assembly-qualified-name="MauiApp2.MainApplication, MauiApp2, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="mauiapp2.MainApplication" java-key="crc6452f1ea43b9adf718.MainApplication" managed-key="MauiApp2.MainApplication" partial-assembly-qualified-name="MauiApp2.MainApplication, MauiApp2" />
   </acw-types>
 </api>

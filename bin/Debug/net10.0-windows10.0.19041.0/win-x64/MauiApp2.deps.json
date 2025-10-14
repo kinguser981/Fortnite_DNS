@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {},
     ".NETCoreApp,Version=v10.0/win-x64": {
-      "MauiApp2/2.0": {
+      "MauiApp2/3.0": {
         "dependencies": {
           "CommunityToolkit.Maui": "12.2.0",
           "CommunityToolkit.Mvvm": "8.4.0",
@@ -580,7 +580,7 @@
     }
   },
   "libraries": {
-    "MauiApp2/2.0": {
+    "MauiApp2/3.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

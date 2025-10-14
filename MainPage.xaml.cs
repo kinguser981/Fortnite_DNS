@@ -1,5 +1,6 @@
 ﻿using DnsClient;
 using System.Collections.ObjectModel;
+using System.Globalization;
 using System.Net;
 using System.Net.NetworkInformation;
 using System.Text.RegularExpressions;
@@ -19,7 +20,12 @@ namespace MauiApp2
 
     {
             InitializeComponent();
-            
+
+            var englishCulture = new CultureInfo("en-US", false);
+
+            CultureInfo.CurrentCulture = englishCulture;
+            CultureInfo.CurrentUICulture = englishCulture;
+
             Application.Current.UserAppTheme = AppTheme.Dark;
    
             MyListView.ItemsSource = dnsResults;

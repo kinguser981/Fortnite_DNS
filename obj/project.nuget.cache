@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IBiSlt7l7uQ=",
+  "dgSpecHash": "wxeozvMi+CU=",
   "success": true,
   "projectFilePath": "C:\\Users\\Samuel\\source\\repos\\MauiApp2\\MauiApp2\\MauiApp2\\MauiApp2.csproj",
   "expectedPackageFiles": [
@@ -130,7 +130,11 @@
     "C:\\Users\\Samuel\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.10.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.10.2.1.nupkg.sha512",
     "C:\\Users\\Samuel\\.nuget\\packages\\xamarin.kotlinx.serialization.core\\1.9.0.1\\xamarin.kotlinx.serialization.core.1.9.0.1.nupkg.sha512",
     "C:\\Users\\Samuel\\.nuget\\packages\\xamarin.kotlinx.serialization.core.jvm\\1.9.0.1\\xamarin.kotlinx.serialization.core.jvm.1.9.0.1.nupkg.sha512",
-    "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
+    "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\10.0.0-rc.1.25451.107\\microsoft.netcore.app.crossgen2.win-x64.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.0-rc.1.25451.107\\microsoft.aspnetcore.app.runtime.win-x64.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.0-rc.1.25451.107\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.0-rc.1.25451.107\\microsoft.netcore.app.runtime.win-x64.10.0.0-rc.1.25451.107.nupkg.sha512"
   ],
   "logs": []
 }

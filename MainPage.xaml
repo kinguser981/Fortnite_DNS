@@ -74,10 +74,11 @@
 
                 <Label 
                  x:Name="SelectedItemLabel"
+                 HorizontalOptions="Start"
                  Text="Status:"
                  FlowDirection="LeftToRight"
                  VerticalOptions="Fill"
-                 HorizontalOptions="Fill"
+                
                  WidthRequest="370"
                  TextColor="OrangeRed"
                  FontAttributes="Bold"

@@ -1,2 +1,2 @@
-AdbTarget=-s adb-N0AA003742K82700152-oNlrZT._adb-tls-connect._tcp
+AdbTarget=-s 192.168.1.102:41919
 AdbOptions=

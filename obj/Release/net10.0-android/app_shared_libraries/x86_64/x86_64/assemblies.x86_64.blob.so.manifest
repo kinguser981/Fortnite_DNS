@@ -30,7 +30,7 @@
 0x2174319c0d835bc9 di:38 mi:38 do:1011034 ds:6393 ddo:0 dds:0 cdo:0 cds:0 System.Runtime
 0x220fd4f2e7c48170 di:80 mi:80 do:3454414 ds:10077 ddo:0 dds:0 cdo:0 cds:0 th/Microsoft.Maui.Controls.resources
 0x224538d85ed15a82 di:20 mi:20 do:302974 ds:14108 ddo:0 dds:0 cdo:0 cds:0 System.IO.Pipes
-0x22b0ac8b536f4516 di:137 mi:137 do:6883462 ds:52608 ddo:0 dds:0 cdo:0 cds:0 MauiApp2.dll
+0x22b0ac8b536f4516 di:137 mi:137 do:6883462 ds:53064 ddo:0 dds:0 cdo:0 cds:0 MauiApp2.dll
 0x237be844f1f812c7 di:43 mi:43 do:1452012 ds:2442 ddo:0 dds:0 cdo:0 cds:0 System.Threading.Thread.dll
 0x2407aef2bbe8fadf di:10 mi:10 do:139077 ds:7379 ddo:0 dds:0 cdo:0 cds:0 System.Console
 0x240abe014b27e7d3 di:114 mi:114 do:6098231 ds:155115 ddo:0 dds:0 cdo:0 cds:0 Xamarin.AndroidX.Core.dll
@@ -194,7 +194,7 @@
 0xadc90ab061a9e6e4 di:8 mi:8 do:87892 ds:48665 ddo:0 dds:0 cdo:0 cds:0 System.ComponentModel.TypeConverter.dll
 0xae282bcd03739de7 di:50 mi:50 do:2449787 ds:79859 ddo:0 dds:0 cdo:0 cds:0 Java.Interop
 0xae53579c90db1107 di:32 mi:32 do:767599 ds:10057 ddo:0 dds:0 cdo:0 cds:0 System.ObjectModel.dll
-0xb124ce407455caaa di:137 mi:137 do:6883462 ds:52608 ddo:0 dds:0 cdo:0 cds:0 MauiApp2
+0xb124ce407455caaa di:137 mi:137 do:6883462 ds:53064 ddo:0 dds:0 cdo:0 cds:0 MauiApp2
 0xb220631954820169 di:42 mi:42 do:1277566 ds:174446 ddo:0 dds:0 cdo:0 cds:0 System.Text.RegularExpressions
 0xb2a3f67f3bf29fce di:56 mi:56 do:3213581 ds:10040 ddo:0 dds:0 cdo:0 cds:0 da/Microsoft.Maui.Controls.resources
 0xb3f0a0fcda8d3ebc di:111 mi:111 do:6058117 ds:8557 ddo:0 dds:0 cdo:0 cds:0 Xamarin.AndroidX.CardView
