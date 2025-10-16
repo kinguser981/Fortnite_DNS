@@ -12,12 +12,15 @@
             Text="Hiya!"
             FontSize="100"
             FontFamily="Fortnitee"
+             TextColor="Cornsilk"
+           
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
         <Label 
      Text="My Name is Samuel Kendall "
      VerticalOptions="Center" 
             FontFamily="Fortnitee"
+            TextColor="Aqua"
             FontSize="30"
            VerticalTextAlignment="Center"
             FontAttributes="Bold"
@@ -28,6 +31,7 @@
 Text="and i love Fortnite"
 VerticalOptions="Center" 
        FontFamily="Fortnitee"
+            TextColor="LightGreen"
        FontSize="30"
       VerticalTextAlignment="Center"
        FontAttributes="Bold"
@@ -47,7 +51,7 @@ HorizontalOptions="Center" />
             <Label 
                 FontFamily="Fortnitee"
                 FontSize="19"
-                TextColor="AliceBlue"
+                TextColor="Gold"
                 TextDecorations="Underline"
                 Text="My Email : KingUser981@gmail.com"
                 VerticalOptions="Center" 

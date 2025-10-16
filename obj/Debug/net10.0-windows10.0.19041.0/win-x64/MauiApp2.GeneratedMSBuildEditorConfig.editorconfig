@@ -1,8 +1,7 @@
 is_global = true
 build_property.MauiXamlNoWarn = 
-build_property.MauiXamlEnableDiagnostics = 
+build_property.EnableMauiXamlDiagnostics = true
 build_property.MauiXamlLineInfo = 
-build_property.MauiXamlNullable = 
 build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
 build_property._MvvmToolkitIsUsingWindowsRuntimePack = true
 build_property.CsWinRTComponent = 
@@ -42,7 +41,6 @@ build_metadata.AdditionalFiles.Inflator = Runtime
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
-build_metadata.AdditionalFiles.Nullable = 
 
 [C:/Users/Samuel/source/repos/MauiApp2/MauiApp2/MauiApp2/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -53,7 +51,6 @@ build_metadata.AdditionalFiles.Inflator = Runtime
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
-build_metadata.AdditionalFiles.Nullable = 
 
 [C:/Users/Samuel/source/repos/MauiApp2/MauiApp2/MauiApp2/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -64,7 +61,6 @@ build_metadata.AdditionalFiles.Inflator = Runtime
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
-build_metadata.AdditionalFiles.Nullable = 
 
 [C:/Users/Samuel/source/repos/MauiApp2/MauiApp2/MauiApp2/CheakNewVersion.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -75,7 +71,6 @@ build_metadata.AdditionalFiles.Inflator = Runtime
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
-build_metadata.AdditionalFiles.Nullable = 
 
 [C:/Users/Samuel/source/repos/MauiApp2/MauiApp2/MauiApp2/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -86,7 +81,6 @@ build_metadata.AdditionalFiles.Inflator = Runtime
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
-build_metadata.AdditionalFiles.Nullable = 
 
 [C:/Users/Samuel/source/repos/MauiApp2/MauiApp2/MauiApp2/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -97,7 +91,6 @@ build_metadata.AdditionalFiles.Inflator = Runtime
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
-build_metadata.AdditionalFiles.Nullable = 
 
 [C:/Users/Samuel/source/repos/MauiApp2/MauiApp2/MauiApp2/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -108,7 +101,6 @@ build_metadata.AdditionalFiles.Inflator = Runtime
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
-build_metadata.AdditionalFiles.Nullable = 
 
 [C:/Users/Samuel/source/repos/MauiApp2/MauiApp2/MauiApp2/SinglePingTest.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -119,4 +111,3 @@ build_metadata.AdditionalFiles.Inflator = Runtime
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
-build_metadata.AdditionalFiles.Nullable = 

@@ -7,14 +7,6 @@ public class DeviceDisplayImplementation_Listener
 		mono.android.IGCUserPeer
 {
 
-	public DeviceDisplayImplementation_Listener (android.content.Context p0, int p1)
-	{
-		super (p0, p1);
-		if (getClass () == DeviceDisplayImplementation_Listener.class) {
-			mono.android.TypeManager.Activate ("Microsoft.Maui.Devices.DeviceDisplayImplementation+Listener, Microsoft.Maui.Essentials", "Android.Content.Context, Mono.Android:Android.Hardware.SensorDelay, Mono.Android", this, new java.lang.Object[] { p0, p1 });
-		}
-	}
-
 	public DeviceDisplayImplementation_Listener (android.content.Context p0)
 	{
 		super (p0);

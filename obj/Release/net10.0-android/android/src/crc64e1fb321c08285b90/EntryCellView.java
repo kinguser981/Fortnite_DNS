@@ -11,14 +11,6 @@ public class EntryCellView
 		android.widget.TextView.OnEditorActionListener
 {
 
-	public EntryCellView (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)
-	{
-		super (p0, p1, p2, p3);
-		if (getClass () == EntryCellView.class) {
-			mono.android.TypeManager.Activate ("Microsoft.Maui.Controls.Handlers.Compatibility.EntryCellView, Microsoft.Maui.Controls", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android:System.Int32, System.Private.CoreLib:System.Int32, System.Private.CoreLib", this, new java.lang.Object[] { p0, p1, p2, p3 });
-		}
-	}
-
 	public EntryCellView (android.content.Context p0, android.util.AttributeSet p1, int p2)
 	{
 		super (p0, p1, p2);

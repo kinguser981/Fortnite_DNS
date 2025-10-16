@@ -14,7 +14,7 @@
 -soname libxamarin-app.so
 -m elf_x86_64
 -z max-page-size=16384
--L "C:\Program Files\dotnet\packs\Microsoft.Android.Runtime.Mono.36.android-x64\36.0.0-rc.1.285\runtimes\android-x64\native"
+-L "C:\Program Files\dotnet\packs\Microsoft.Android.Runtime.Mono.36.android-x64\36.0.0-rc.2.332\runtimes\android-x64\native"
 obj\Release\net10.0-android\android\typemaps.x86_64.o
 obj\Release\net10.0-android\android\environment.x86_64.o
 obj\Release\net10.0-android\android\compressed_assemblies.x86_64.o

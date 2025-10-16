@@ -14,14 +14,6 @@ public class TextCellRenderer_TextCellView
 		mono.android.Runtime.register ("Microsoft.Maui.Controls.Handlers.Compatibility.TextCellRenderer+TextCellView, Microsoft.Maui.Controls", TextCellRenderer_TextCellView.class, __md_methods);
 	}
 
-	public TextCellRenderer_TextCellView (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)
-	{
-		super (p0, p1, p2, p3);
-		if (getClass () == TextCellRenderer_TextCellView.class) {
-			mono.android.TypeManager.Activate ("Microsoft.Maui.Controls.Handlers.Compatibility.TextCellRenderer+TextCellView, Microsoft.Maui.Controls", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android:System.Int32, System.Private.CoreLib:System.Int32, System.Private.CoreLib", this, new java.lang.Object[] { p0, p1, p2, p3 });
-		}
-	}
-
 	public TextCellRenderer_TextCellView (android.content.Context p0, android.util.AttributeSet p1, int p2)
 	{
 		super (p0, p1, p2);

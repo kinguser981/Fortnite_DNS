@@ -30,6 +30,13 @@ public class MauiAppCompatActivity
 
 	private native void n_onCreate (android.os.Bundle p0);
 
+	public void onDestroy ()
+	{
+		n_onDestroy ();
+	}
+
+	private native void n_onDestroy ();
+
 	public boolean dispatchTouchEvent (android.view.MotionEvent p0)
 	{
 		return n_dispatchTouchEvent (p0);

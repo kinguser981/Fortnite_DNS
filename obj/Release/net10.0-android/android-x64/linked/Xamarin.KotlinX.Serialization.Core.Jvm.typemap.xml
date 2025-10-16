@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.KotlinX.Serialization.Core.Jvm" mvid="aca53f29fc004e509c8668e753872bb4">
-  <module assembly-name="Xamarin.KotlinX.Serialization.Core.Jvm" mvid="aca53f29fc004e509c8668e753872bb4" mvid-bytes="KT+lrAD8UE6chmjnU4crtA==">
+<api type="release" assembly-name="Xamarin.KotlinX.Serialization.Core.Jvm" mvid="d8155c9c53e940628e17523c76507c77">
+  <module assembly-name="Xamarin.KotlinX.Serialization.Core.Jvm" mvid="d8155c9c53e940628e17523c76507c77" mvid-bytes="nFwV2OlTYkCOF1I8dlB8dw==">
     <duplicates>
       <entry java-name="kotlinx/serialization/DeserializationStrategy" managed-type-name="KotlinX.Serialization.IDeserializationStrategyInvoker" token="33554476" />
       <entry java-name="kotlinx/serialization/KSerializer" managed-type-name="KotlinX.Serialization.IKSerializerInvoker" token="33554478" />

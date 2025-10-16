@@ -16,6 +16,14 @@ public class ShellFlyoutTemplatedContentRenderer_WindowsListener
 		}
 	}
 
+	public ShellFlyoutTemplatedContentRenderer_WindowsListener (android.widget.ImageView p0)
+	{
+		super ();
+		if (getClass () == ShellFlyoutTemplatedContentRenderer_WindowsListener.class) {
+			mono.android.TypeManager.Activate ("Microsoft.Maui.Controls.Platform.Compatibility.ShellFlyoutTemplatedContentRenderer+WindowsListener, Microsoft.Maui.Controls", "Android.Widget.ImageView, Mono.Android", this, new java.lang.Object[] { p0 });
+		}
+	}
+
 	public androidx.core.view.WindowInsetsCompat onApplyWindowInsets (android.view.View p0, androidx.core.view.WindowInsetsCompat p1)
 	{
 		return n_onApplyWindowInsets (p0, p1);

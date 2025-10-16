@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.SwipeRefreshLayout" mvid="975cd0a06ab94657850b02a471252865">
-  <module assembly-name="Xamarin.AndroidX.SwipeRefreshLayout" mvid="975cd0a06ab94657850b02a471252865" mvid-bytes="oNBcl7lqV0aFCwKkcSUoZQ==">
+<api type="release" assembly-name="Xamarin.AndroidX.SwipeRefreshLayout" mvid="5e779c1c9a6a44388440f534afc0002a">
+  <module assembly-name="Xamarin.AndroidX.SwipeRefreshLayout" mvid="5e779c1c9a6a44388440f534afc0002a" mvid-bytes="HJx3XmqaOESEQPU0r8AAKg==">
     <duplicates>
       <entry java-name="androidx/swiperefreshlayout/widget/SwipeRefreshLayout$OnChildScrollUpCallback" managed-type-name="AndroidX.SwipeRefreshLayout.Widget.SwipeRefreshLayout/IOnChildScrollUpCallbackInvoker" token="33554458" />
       <entry java-name="androidx/swiperefreshlayout/widget/SwipeRefreshLayout$OnRefreshListener" managed-type-name="AndroidX.SwipeRefreshLayout.Widget.SwipeRefreshLayout/IOnRefreshListenerInvoker" token="33554460" />

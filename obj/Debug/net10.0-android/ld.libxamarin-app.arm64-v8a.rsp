@@ -15,7 +15,7 @@
 --fix-cortex-a53-843419
 -m aarch64linux
 -z max-page-size=16384
--L "C:\Program Files\dotnet\packs\Microsoft.Android.Runtime.Mono.36.android-arm64\36.0.0-rc.1.285\runtimes\android-arm64\native"
+-L "C:\Program Files\dotnet\packs\Microsoft.Android.Runtime.Mono.36.android-arm64\36.0.0-rc.2.332\runtimes\android-arm64\native"
 obj\Debug\net10.0-android\android\typemaps.arm64-v8a.o
 obj\Debug\net10.0-android\android\environment.arm64-v8a.o
 obj\Debug\net10.0-android\android\compressed_assemblies.arm64-v8a.o

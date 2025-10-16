@@ -70,7 +70,7 @@
                 Margin="0"
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
-                HorizontalOptions="CenterAndExpand" />
+                HorizontalOptions="Center" />
 
                 <Label 
                  x:Name="SelectedItemLabel"
@@ -87,35 +87,67 @@
 
             </StackLayout>
 
-            <ListView
-                x:Name="MyListView"
+    
+            <CollectionView
+                x:Name="CollectionView"
                 FlowDirection="LeftToRight"
                 VerticalOptions="Fill"
                 VerticalScrollBarVisibility="Never"
                 HorizontalOptions="Fill"
-                ItemSelected="MyListView_ItemSelected"
+                SelectionMode="Single"
                 
+               
                 >
-                <ListView.ItemTemplate>
-                    
+               
+               
+                
+                <CollectionView.ItemTemplate>
                     <DataTemplate>
 
-                        <TextCell
-                             Text="{Binding}"
+                        <Border
+                            Stroke="Aqua"
+                             StrokeShape="RoundRectangle 40,0,0,40"
+                             
+                             Padding="16,8"
                             
-                            TextColor="#00FF00"
                             
-                            ></TextCell>
-                        
-                    </DataTemplate>
-                    
-                </ListView.ItemTemplate>
-  
-            </ListView>
+                            >
 
+                        <Label
+                            Text="{Binding}"        
+                            FontSize="15"
+                            FlowDirection="LeftToRight" 
+                            x:Name="Mybutteon"
+                            
+                            TextColor="#00FF00">
+
+                            <Label.GestureRecognizers>
+
+                                <TapGestureRecognizer
+        
+                                        Tapped="OnBTNClicked"
+        
+                                                     />
+                            </Label.GestureRecognizers>
+                                
+                            </Label>
+                            
+                            
+                        </Border>
+
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+                
+            </CollectionView>
+            
+            
+            
+            
+            
+            
             <Label
-                Text=" "
-                FontSize="Small"
+                Text=""
+                FontSize="15"
                 ></Label>
 
         </VerticalStackLayout>

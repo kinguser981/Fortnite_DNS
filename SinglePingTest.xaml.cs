@@ -1,4 +1,4 @@
-using System.Net.NetworkInformation;
+﻿using System.Net.NetworkInformation;
 using System.Text;
 
 
@@ -49,7 +49,8 @@ public partial class SinglePingTest : ContentPage
         if (selectedIndex != -1)
         {
             string selectedRegion = (string)picker.SelectedItem;
-           // SelectedItemLabel.Text = $"Selected Region: {selectedRegion}";
+            PingResultsLabel.Text = $"Selected Region: {selectedRegion}";
+           
 
             switch (selectedIndex)
             {
@@ -87,23 +88,33 @@ public partial class SinglePingTest : ContentPage
 
     private async void OnStartPingTestClicked(object sender, EventArgs e)
     {
-        // Disable the button and show the activity indicator while testing
-        string HostAddress = PingRegion;
-        pinkbut.IsEnabled = false;
-        ActivityIndicator.IsRunning = true;
-        
 
-        PingResultsLabel.Text = $"Pinging {HostAddress} {PingCount} times...\n";
+        string iftext = PingResultsLabel.Text;
+        if (iftext == "Press the button to start the ping test")
+        {
+            DisplayAlertAsync("⚠️Warning!", "No region has been selected. Please select your region or the region you want to Play!", " OK ");
+        }
+        else
+        {
 
-        // Run the 50 pings and get the formatted result string
-        string result = await PingEpicGamesServer_50Times();
+            // Disable the button and show the activity indicator while testing
+            string HostAddress = PingRegion;
+            pinkbut.IsEnabled = false;
+            ActivityIndicator.IsRunning = true;
 
-        // Display the final results
-        PingResultsLabel.Text = result;
 
-        // Re-enable the button and hide the activity indicator
-        ActivityIndicator.IsRunning = false;
-        pinkbut.IsEnabled = true;
+            PingResultsLabel.Text = $"Pinging {HostAddress} {PingCount} times...\n";
+
+            // Run the 50 pings and get the formatted result string
+            string result = await PingEpicGamesServer_50Times();
+
+            // Display the final results
+            PingResultsLabel.Text = result;
+
+            // Re-enable the button and hide the activity indicator
+            ActivityIndicator.IsRunning = false;
+            pinkbut.IsEnabled = true;
+        }
     }
 
     private async Task<string> PingEpicGamesServer_50Times()

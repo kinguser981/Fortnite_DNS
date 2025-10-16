@@ -79,12 +79,6 @@ android.database.Cursor;android.database.Cursor
 Android.Graphics.Drawables.IAnimatable, Mono.Android;android.graphics.drawable.Animatable
 Android.Graphics.Drawables.IAnimatable;android.graphics.drawable.Animatable
 android.graphics.drawable.Animatable;android.graphics.drawable.Animatable
-Android.OS.ActionHandlerCallback, Mono.Android;mono.android.os.ActionHandlerCallback
-Android.OS.ActionHandlerCallback;mono.android.os.ActionHandlerCallback
-mono.android.os.ActionHandlerCallback;mono.android.os.ActionHandlerCallback
-Android.OS.Handler+ICallback, Mono.Android;android.os.Handler$Callback
-Android.OS.Handler.ICallback;android.os.Handler$Callback
-android.os.Handler$Callback;android.os.Handler$Callback
 Android.OS.IBinder, Mono.Android;android.os.IBinder
 Android.OS.IBinder;android.os.IBinder
 android.os.IBinder;android.os.IBinder
@@ -820,9 +814,6 @@ java.util.SequencedCollection;java.util.SequencedCollection
 Java.Util.ISpliterator, Mono.Android;java.util.Spliterator
 Java.Util.ISpliterator;java.util.Spliterator
 java.util.Spliterator;java.util.Spliterator
-Javax.Microedition.Khronos.Opengles.IGL, Mono.Android;javax.microedition.khronos.opengles.GL
-Javax.Microedition.Khronos.Opengles.IGL;javax.microedition.khronos.opengles.GL
-javax.microedition.khronos.opengles.GL;javax.microedition.khronos.opengles.GL
 Javax.Net.Ssl.IHostnameVerifier, Mono.Android;javax.net.ssl.HostnameVerifier
 Javax.Net.Ssl.IHostnameVerifier;javax.net.ssl.HostnameVerifier
 javax.net.ssl.HostnameVerifier;javax.net.ssl.HostnameVerifier
@@ -1198,9 +1189,6 @@ microsoft.maui.controls.platform.compatibility.ShellSectionRenderer;crc640ec207a
 Microsoft.Maui.Controls.Platform.Compatibility.ShellSectionRenderer+ViewPagerPageChanged, Microsoft.Maui.Controls;crc640ec207abc449b2ca.ShellSectionRenderer_ViewPagerPageChanged
 Microsoft.Maui.Controls.Platform.Compatibility.ShellSectionRenderer.ViewPagerPageChanged;crc640ec207abc449b2ca.ShellSectionRenderer_ViewPagerPageChanged
 microsoft.maui.controls.platform.compatibility.ShellSectionRenderer_ViewPagerPageChanged;crc640ec207abc449b2ca.ShellSectionRenderer_ViewPagerPageChanged
-Microsoft.Maui.Controls.Platform.Compatibility.ShellSectionRenderer+WindowsListener, Microsoft.Maui.Controls;crc640ec207abc449b2ca.ShellSectionRenderer_WindowsListener
-Microsoft.Maui.Controls.Platform.Compatibility.ShellSectionRenderer.WindowsListener;crc640ec207abc449b2ca.ShellSectionRenderer_WindowsListener
-microsoft.maui.controls.platform.compatibility.ShellSectionRenderer_WindowsListener;crc640ec207abc449b2ca.ShellSectionRenderer_WindowsListener
 Microsoft.Maui.Controls.Platform.Compatibility.ShellToolbarTracker, Microsoft.Maui.Controls;crc640ec207abc449b2ca.ShellToolbarTracker
 Microsoft.Maui.Controls.Platform.Compatibility.ShellToolbarTracker;crc640ec207abc449b2ca.ShellToolbarTracker
 microsoft.maui.controls.platform.compatibility.ShellToolbarTracker;crc640ec207abc449b2ca.ShellToolbarTracker
@@ -1294,9 +1282,6 @@ microsoft.maui.handlers.ButtonHandler_ButtonClickListener;crc64fcf28c0e24b4cc31.
 Microsoft.Maui.Handlers.ButtonHandler+ButtonTouchListener, Microsoft.Maui;crc64fcf28c0e24b4cc31.ButtonHandler_ButtonTouchListener
 Microsoft.Maui.Handlers.ButtonHandler.ButtonTouchListener;crc64fcf28c0e24b4cc31.ButtonHandler_ButtonTouchListener
 microsoft.maui.handlers.ButtonHandler_ButtonTouchListener;crc64fcf28c0e24b4cc31.ButtonHandler_ButtonTouchListener
-Microsoft.Maui.Handlers.FlyoutViewHandler+WindowsListener, Microsoft.Maui;crc64fcf28c0e24b4cc31.FlyoutViewHandler_WindowsListener
-Microsoft.Maui.Handlers.FlyoutViewHandler.WindowsListener;crc64fcf28c0e24b4cc31.FlyoutViewHandler_WindowsListener
-microsoft.maui.handlers.FlyoutViewHandler_WindowsListener;crc64fcf28c0e24b4cc31.FlyoutViewHandler_WindowsListener
 Microsoft.Maui.Handlers.HybridWebViewHandler+HybridWebViewJavaScriptInterface, Microsoft.Maui;crc64fcf28c0e24b4cc31.HybridWebViewHandler_HybridWebViewJavaScriptInterface
 Microsoft.Maui.Handlers.HybridWebViewHandler.HybridWebViewJavaScriptInterface;crc64fcf28c0e24b4cc31.HybridWebViewHandler_HybridWebViewJavaScriptInterface
 microsoft.maui.handlers.HybridWebViewHandler_HybridWebViewJavaScriptInterface;crc64fcf28c0e24b4cc31.HybridWebViewHandler_HybridWebViewJavaScriptInterface
@@ -1312,9 +1297,6 @@ microsoft.maui.handlers.SwitchHandler_CheckedChangeListener;crc64fcf28c0e24b4cc3
 Microsoft.Maui.Handlers.ToolbarHandler+ProcessBackClick, Microsoft.Maui;crc64fcf28c0e24b4cc31.ToolbarHandler_ProcessBackClick
 Microsoft.Maui.Handlers.ToolbarHandler.ProcessBackClick;crc64fcf28c0e24b4cc31.ToolbarHandler_ProcessBackClick
 microsoft.maui.handlers.ToolbarHandler_ProcessBackClick;crc64fcf28c0e24b4cc31.ToolbarHandler_ProcessBackClick
-Microsoft.Maui.Handlers.WindowHandler+WindowsListener, Microsoft.Maui;crc64fcf28c0e24b4cc31.WindowHandler_WindowsListener
-Microsoft.Maui.Handlers.WindowHandler.WindowsListener;crc64fcf28c0e24b4cc31.WindowHandler_WindowsListener
-microsoft.maui.handlers.WindowHandler_WindowsListener;crc64fcf28c0e24b4cc31.WindowHandler_WindowsListener
 Microsoft.Maui.IImageLoaderCallback, Microsoft.Maui;com.microsoft.maui.ImageLoaderCallback
 Microsoft.Maui.IImageLoaderCallback;com.microsoft.maui.ImageLoaderCallback
 com.microsoft.maui.ImageLoaderCallback;com.microsoft.maui.ImageLoaderCallback
@@ -1357,6 +1339,9 @@ microsoft.maui.platform.ContentViewGroup;crc6452ffdc5b34af3a0f.ContentViewGroup
 Microsoft.Maui.Platform.FragmentManagerExtensions+CallBacks, Microsoft.Maui;crc6452ffdc5b34af3a0f.FragmentManagerExtensions_CallBacks
 Microsoft.Maui.Platform.FragmentManagerExtensions.CallBacks;crc6452ffdc5b34af3a0f.FragmentManagerExtensions_CallBacks
 microsoft.maui.platform.FragmentManagerExtensions_CallBacks;crc6452ffdc5b34af3a0f.FragmentManagerExtensions_CallBacks
+Microsoft.Maui.Platform.GlobalWindowInsetListener, Microsoft.Maui;crc6452ffdc5b34af3a0f.GlobalWindowInsetListener
+Microsoft.Maui.Platform.GlobalWindowInsetListener;crc6452ffdc5b34af3a0f.GlobalWindowInsetListener
+microsoft.maui.platform.GlobalWindowInsetListener;crc6452ffdc5b34af3a0f.GlobalWindowInsetListener
 Microsoft.Maui.Platform.LayoutViewGroup, Microsoft.Maui;crc6452ffdc5b34af3a0f.LayoutViewGroup
 Microsoft.Maui.Platform.LayoutViewGroup;crc6452ffdc5b34af3a0f.LayoutViewGroup
 microsoft.maui.platform.LayoutViewGroup;crc6452ffdc5b34af3a0f.LayoutViewGroup

@@ -14,22 +14,6 @@ public class MauiHybridWebView
 		mono.android.Runtime.register ("Microsoft.Maui.Platform.MauiHybridWebView, Microsoft.Maui", MauiHybridWebView.class, __md_methods);
 	}
 
-	public MauiHybridWebView (android.content.Context p0, android.util.AttributeSet p1, int p2, boolean p3)
-	{
-		super (p0, p1, p2, p3);
-		if (getClass () == MauiHybridWebView.class) {
-			mono.android.TypeManager.Activate ("Microsoft.Maui.Platform.MauiHybridWebView, Microsoft.Maui", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android:System.Int32, System.Private.CoreLib:System.Boolean, System.Private.CoreLib", this, new java.lang.Object[] { p0, p1, p2, p3 });
-		}
-	}
-
-	public MauiHybridWebView (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)
-	{
-		super (p0, p1, p2, p3);
-		if (getClass () == MauiHybridWebView.class) {
-			mono.android.TypeManager.Activate ("Microsoft.Maui.Platform.MauiHybridWebView, Microsoft.Maui", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android:System.Int32, System.Private.CoreLib:System.Int32, System.Private.CoreLib", this, new java.lang.Object[] { p0, p1, p2, p3 });
-		}
-	}
-
 	public MauiHybridWebView (android.content.Context p0, android.util.AttributeSet p1, int p2)
 	{
 		super (p0, p1, p2);

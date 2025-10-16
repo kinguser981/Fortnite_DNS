@@ -14,14 +14,6 @@ public class MauiStepper
 		mono.android.Runtime.register ("Microsoft.Maui.Platform.MauiStepper, Microsoft.Maui", MauiStepper.class, __md_methods);
 	}
 
-	public MauiStepper (android.content.Context p0, android.util.AttributeSet p1, int p2, int p3)
-	{
-		super (p0, p1, p2, p3);
-		if (getClass () == MauiStepper.class) {
-			mono.android.TypeManager.Activate ("Microsoft.Maui.Platform.MauiStepper, Microsoft.Maui", "Android.Content.Context, Mono.Android:Android.Util.IAttributeSet, Mono.Android:System.Int32, System.Private.CoreLib:System.Int32, System.Private.CoreLib", this, new java.lang.Object[] { p0, p1, p2, p3 });
-		}
-	}
-
 	public MauiStepper (android.content.Context p0, android.util.AttributeSet p1, int p2)
 	{
 		super (p0, p1, p2);

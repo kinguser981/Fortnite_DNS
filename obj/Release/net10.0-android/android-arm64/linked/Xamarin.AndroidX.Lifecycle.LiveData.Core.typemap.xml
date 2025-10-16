@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.Lifecycle.LiveData.Core" mvid="1650f943742f4d94a2720470a6377a24">
-  <module assembly-name="Xamarin.AndroidX.Lifecycle.LiveData.Core" mvid="1650f943742f4d94a2720470a6377a24" mvid-bytes="Q/lQFi90lE2icgRwpjd6JA==">
+<api type="release" assembly-name="Xamarin.AndroidX.Lifecycle.LiveData.Core" mvid="338b214569334ac8a128275096d4d823">
+  <module assembly-name="Xamarin.AndroidX.Lifecycle.LiveData.Core" mvid="338b214569334ac8a128275096d4d823" mvid-bytes="RSGLMzNpyEqhKCdQltTYIw==">
     <duplicates>
       <entry java-name="androidx/lifecycle/Observer" managed-type-name="AndroidX.Lifecycle.IObserverInvoker" token="33554440" />
       <entry java-name="androidx/lifecycle/LiveData" managed-type-name="AndroidX.Lifecycle.LiveDataInvoker" token="33554442" />

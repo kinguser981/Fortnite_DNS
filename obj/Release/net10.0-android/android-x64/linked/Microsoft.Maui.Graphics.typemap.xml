@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Microsoft.Maui.Graphics" mvid="1295b4e83cf84bd59f5353d023d7d9de">
-  <module assembly-name="Microsoft.Maui.Graphics" mvid="1295b4e83cf84bd59f5353d023d7d9de" mvid-bytes="6LSVEvg81UufU1PQI9fZ3g==">
+<api type="release" assembly-name="Microsoft.Maui.Graphics" mvid="3030875f767a49aab001a124b15db792">
+  <module assembly-name="Microsoft.Maui.Graphics" mvid="3030875f767a49aab001a124b15db792" mvid-bytes="X4cwMHp2qkmwAaEksV23kg==">
     <types-scratch>
       <entry key="crc643f2b18b2570eaa5a/PlatformGraphicsView" java-name="crc643f2b18b2570eaa5a/PlatformGraphicsView" managed-type-name="Microsoft.Maui.Graphics.Platform.PlatformGraphicsView" token="33554552" />
     </types-scratch>

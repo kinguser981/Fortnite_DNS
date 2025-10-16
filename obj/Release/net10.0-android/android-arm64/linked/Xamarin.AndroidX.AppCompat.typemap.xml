@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.AppCompat" mvid="412d6d882c064daaba7133f9f1845378">
-  <module assembly-name="Xamarin.AndroidX.AppCompat" mvid="412d6d882c064daaba7133f9f1845378" mvid-bytes="iG0tQQYsqk26cTP58YRTeA==">
+<api type="release" assembly-name="Xamarin.AndroidX.AppCompat" mvid="adef5d67d75b41e496e21be667fbfa23">
+  <module assembly-name="Xamarin.AndroidX.AppCompat" mvid="adef5d67d75b41e496e21be667fbfa23" mvid-bytes="Z13vrVvX5EGW4hvmZ/v6Iw==">
     <duplicates>
       <entry java-name="androidx/appcompat/widget/Toolbar$OnMenuItemClickListener" managed-type-name="AndroidX.AppCompat.Widget.Toolbar/IOnMenuItemClickListenerInvoker" token="33554492" />
       <entry java-name="androidx/appcompat/widget/DecorToolbar" managed-type-name="AndroidX.AppCompat.Widget.IDecorToolbarInvoker" token="33554507" />

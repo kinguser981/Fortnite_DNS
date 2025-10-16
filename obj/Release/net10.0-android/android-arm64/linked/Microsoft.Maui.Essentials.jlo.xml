@@ -79,7 +79,6 @@
     </type>
     <type name="DeviceDisplayImplementation_Listener" package="crc640a8d9a12ddbf2cf2" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="android.view.OrientationEventListener" partial_assembly_qualified_name="Microsoft.Maui.Devices.DeviceDisplayImplementation+Listener, Microsoft.Maui.Essentials">
       <constructors>
-        <constructor name="DeviceDisplayImplementation_Listener" method="n_.ctor:(Landroid/content/Context;I)V:" jni_signature="(Landroid/content/Context;I)V" managed_parameters="Android.Content.Context, Mono.Android:Android.Hardware.SensorDelay, Mono.Android" params="android.content.Context p0, int p1" retval="void" is_dynamically_registered="True" super_call="p0, p1" activate_call="p0, p1" />
         <constructor name="DeviceDisplayImplementation_Listener" method="n_.ctor:(Landroid/content/Context;)V:" jni_signature="(Landroid/content/Context;)V" managed_parameters="Android.Content.Context, Mono.Android" params="android.content.Context p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
       </constructors>
       <methods>

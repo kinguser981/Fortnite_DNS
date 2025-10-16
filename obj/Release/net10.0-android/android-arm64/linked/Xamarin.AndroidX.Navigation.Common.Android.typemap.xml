@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.Navigation.Common.Android" mvid="13e40e2fce7840b9b55abfeb7f7e3e2c">
-  <module assembly-name="Xamarin.AndroidX.Navigation.Common.Android" mvid="13e40e2fce7840b9b55abfeb7f7e3e2c" mvid-bytes="Lw7kE3jOuUC1Wr/rf34+LA==">
+<api type="release" assembly-name="Xamarin.AndroidX.Navigation.Common.Android" mvid="4bf36e1b9c664072b73516a745e0d046">
+  <module assembly-name="Xamarin.AndroidX.Navigation.Common.Android" mvid="4bf36e1b9c664072b73516a745e0d046" mvid-bytes="G27zS2acckC3NRanReDQRg==">
     <duplicates>
       <entry java-name="androidx/navigation/NavDirections" managed-type-name="AndroidX.Navigation.INavDirectionsInvoker" token="33554447" />
       <entry java-name="androidx/navigation/Navigator$Extras" managed-type-name="AndroidX.Navigation.Navigator/IExtrasInvoker" token="33554459" />

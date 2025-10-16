@@ -7,14 +7,6 @@ public class InputStreamAdapter
 		mono.android.IGCUserPeer
 {
 
-	public InputStreamAdapter ()
-	{
-		super ();
-		if (getClass () == InputStreamAdapter.class) {
-			mono.android.TypeManager.Activate ("Android.Runtime.InputStreamAdapter, Mono.Android", "", this, new java.lang.Object[] {  });
-		}
-	}
-
 	public void close ()
 	{
 		n_close ();

@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.Core" mvid="a292c017c6344293a660d86767f0afa3">
-  <module assembly-name="Xamarin.AndroidX.Core" mvid="a292c017c6344293a660d86767f0afa3" mvid-bytes="F8CSojTGk0KmYNhnZ/Cvow==">
+<api type="release" assembly-name="Xamarin.AndroidX.Core" mvid="b27916b0b9944810bac5aafcc448c02f">
+  <module assembly-name="Xamarin.AndroidX.Core" mvid="b27916b0b9944810bac5aafcc448c02f" mvid-bytes="sBZ5spS5EEi6xar8xEjALw==">
     <duplicates>
       <entry java-name="androidx/core/util/Consumer" managed-type-name="AndroidX.Core.Util.IConsumerInvoker" token="33554494" />
       <entry java-name="androidx/core/util/Predicate" managed-type-name="AndroidX.Core.Util.IPredicateInvoker" token="33554496" />

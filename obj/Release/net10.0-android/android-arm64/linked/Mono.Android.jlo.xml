@@ -47,17 +47,6 @@
         <method name="onTextChanged" method="n_onTextChanged:(Ljava/lang/CharSequence;III)V:GetOnTextChanged_Ljava_lang_CharSequence_IIIHandler:Android.Text.ITextWatcherInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" jni_signature="(Ljava/lang/CharSequence;III)V" params="java.lang.CharSequence p0, int p1, int p2, int p3" retval="void" super_call="p0, p1, p2, p3" activate_call="p0, p1, p2, p3" />
       </methods>
     </type>
-    <type name="ActionHandlerCallback" package="mono.android.os" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="java.lang.Object" partial_assembly_qualified_name="Android.OS.ActionHandlerCallback, Mono.Android">
-      <implemented_interfaces>
-        <interface name="android.os.Handler.Callback" />
-      </implemented_interfaces>
-      <constructors>
-        <constructor name="ActionHandlerCallback" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
-      </constructors>
-      <methods>
-        <method name="handleMessage" method="n_handleMessage:(Landroid/os/Message;)Z:GetHandleMessage_Landroid_os_Message_Handler:Android.OS.Handler+ICallbackInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" jni_signature="(Landroid/os/Message;)Z" params="android.os.Message p0" retval="boolean" super_call="p0" activate_call="p0" />
-      </methods>
-    </type>
     <type name="AnimatorEventDispatcher" package="mono.android.animation" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="java.lang.Object" partial_assembly_qualified_name="Android.Animation.AnimatorEventDispatcher, Mono.Android">
       <implemented_interfaces>
         <interface name="android.animation.Animator.AnimatorListener" />
@@ -187,9 +176,6 @@
       </methods>
     </type>
     <type name="InputStreamAdapter" package="mono.android.runtime" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="java.io.InputStream" partial_assembly_qualified_name="Android.Runtime.InputStreamAdapter, Mono.Android">
-      <constructors>
-        <constructor name="InputStreamAdapter" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
-      </constructors>
       <methods>
         <method name="close" method="n_close:()V:GetCloseHandler" jni_signature="()V" retval="void" />
         <method name="read" method="n_read:()I:GetReadHandler" jni_signature="()I" retval="int" />
@@ -214,7 +200,7 @@
     </type>
     <type name="OutputStreamAdapter" package="mono.android.runtime" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="java.io.OutputStream" partial_assembly_qualified_name="Android.Runtime.OutputStreamAdapter, Mono.Android">
       <constructors>
-        <constructor name="OutputStreamAdapter" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="OutputStreamAdapter" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="System.IO.Stream, System.Private.CoreLib" retval="void" is_dynamically_registered="True" />
       </constructors>
       <methods>
         <method name="close" method="n_close:()V:GetCloseHandler" jni_signature="()V" retval="void" />
@@ -367,7 +353,6 @@
     <type assembly-qualified-name="Javax.Net.Ssl.ISSLSession, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="javax.net.ssl.SSLSession" java-key="javax.net.ssl.SSLSession" managed-key="Javax.Net.Ssl.ISSLSession" partial-assembly-qualified-name="Javax.Net.Ssl.ISSLSession, Mono.Android" />
     <type assembly-qualified-name="Javax.Net.Ssl.ISSLSessionContext, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="javax.net.ssl.SSLSessionContext" java-key="javax.net.ssl.SSLSessionContext" managed-key="Javax.Net.Ssl.ISSLSessionContext" partial-assembly-qualified-name="Javax.Net.Ssl.ISSLSessionContext, Mono.Android" />
     <type assembly-qualified-name="Javax.Net.Ssl.ITrustManager, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="javax.net.ssl.TrustManager" java-key="javax.net.ssl.TrustManager" managed-key="Javax.Net.Ssl.ITrustManager" partial-assembly-qualified-name="Javax.Net.Ssl.ITrustManager, Mono.Android" />
-    <type assembly-qualified-name="Javax.Microedition.Khronos.Opengles.IGL, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="javax.microedition.khronos.opengles.GL" java-key="javax.microedition.khronos.opengles.GL" managed-key="Javax.Microedition.Khronos.Opengles.IGL" partial-assembly-qualified-name="Javax.Microedition.Khronos.Opengles.IGL, Mono.Android" />
     <type assembly-qualified-name="Android.Window.IOnBackInvokedCallback, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="android.window.OnBackInvokedCallback" java-key="android.window.OnBackInvokedCallback" managed-key="Android.Window.IOnBackInvokedCallback" partial-assembly-qualified-name="Android.Window.IOnBackInvokedCallback, Mono.Android" />
     <type assembly-qualified-name="Android.Window.IOnBackInvokedDispatcher, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="android.window.OnBackInvokedDispatcher" java-key="android.window.OnBackInvokedDispatcher" managed-key="Android.Window.IOnBackInvokedDispatcher" partial-assembly-qualified-name="Android.Window.IOnBackInvokedDispatcher, Mono.Android" />
     <type assembly-qualified-name="Android.Webkit.IValueCallback, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="android.webkit.ValueCallback" java-key="android.webkit.ValueCallback" managed-key="Android.Webkit.IValueCallback" partial-assembly-qualified-name="Android.Webkit.IValueCallback, Mono.Android" />
@@ -405,8 +390,6 @@
     <type assembly-qualified-name="Android.Text.Style.IWrapTogetherSpan, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="android.text.style.WrapTogetherSpan" java-key="android.text.style.WrapTogetherSpan" managed-key="Android.Text.Style.IWrapTogetherSpan" partial-assembly-qualified-name="Android.Text.Style.IWrapTogetherSpan, Mono.Android" />
     <type assembly-qualified-name="Android.Text.Method.IKeyListener, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="android.text.method.KeyListener" java-key="android.text.method.KeyListener" managed-key="Android.Text.Method.IKeyListener" partial-assembly-qualified-name="Android.Text.Method.IKeyListener, Mono.Android" />
     <type assembly-qualified-name="Android.Text.Method.IMovementMethod, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="android.text.method.MovementMethod" java-key="android.text.method.MovementMethod" managed-key="Android.Text.Method.IMovementMethod" partial-assembly-qualified-name="Android.Text.Method.IMovementMethod, Mono.Android" />
-    <type assembly-qualified-name="Android.OS.Handler+ICallback, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="android.os.Handler$Callback" java-key="android.os.Handler$Callback" managed-key="Android.OS.Handler.ICallback" partial-assembly-qualified-name="Android.OS.Handler+ICallback, Mono.Android" />
-    <type assembly-qualified-name="Android.OS.ActionHandlerCallback, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="mono.android.os.ActionHandlerCallback" java-key="mono.android.os.ActionHandlerCallback" managed-key="Android.OS.ActionHandlerCallback" partial-assembly-qualified-name="Android.OS.ActionHandlerCallback, Mono.Android" />
     <type assembly-qualified-name="Android.OS.IBinderDeathRecipient, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="android.os.IBinder$DeathRecipient" java-key="android.os.IBinder$DeathRecipient" managed-key="Android.OS.IBinderDeathRecipient" partial-assembly-qualified-name="Android.OS.IBinderDeathRecipient, Mono.Android" />
     <type assembly-qualified-name="Android.OS.IBinder, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="android.os.IBinder" java-key="android.os.IBinder" managed-key="Android.OS.IBinder" partial-assembly-qualified-name="Android.OS.IBinder, Mono.Android" />
     <type assembly-qualified-name="Android.OS.IBinder+IFrozenStateChangeCallback, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065" compat-jni-name="android.os.IBinder$FrozenStateChangeCallback" java-key="android.os.IBinder$FrozenStateChangeCallback" managed-key="Android.OS.IBinder.IFrozenStateChangeCallback" partial-assembly-qualified-name="Android.OS.IBinder+IFrozenStateChangeCallback, Mono.Android" />

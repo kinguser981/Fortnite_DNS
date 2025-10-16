@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.Google.Android.Material" mvid="30a706d892e540199b41452bce8a4062">
-  <module assembly-name="Xamarin.Google.Android.Material" mvid="30a706d892e540199b41452bce8a4062" mvid-bytes="2AanMOWSGUCbQUUrzopAYg==">
+<api type="release" assembly-name="Xamarin.Google.Android.Material" mvid="b6d6a014f6fe4f3b98677ad7b8b80710">
+  <module assembly-name="Xamarin.Google.Android.Material" mvid="b6d6a014f6fe4f3b98677ad7b8b80710" mvid-bytes="FKDWtv72O0+YZ3rXuLgHEA==">
     <duplicates>
       <entry java-name="com/google/android/material/shape/CornerSize" managed-type-name="Google.Android.Material.Shape.ICornerSizeInvoker" token="33554500" />
       <entry java-name="com/google/android/material/shape/ShapeAppearanceModel$CornerSizeUnaryOperator" managed-type-name="Google.Android.Material.Shape.ShapeAppearanceModel/ICornerSizeUnaryOperatorInvoker" token="33554506" />

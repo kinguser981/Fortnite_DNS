@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.Fragment" mvid="fb0d21c232294ae2b44b8721025852fc">
-  <module assembly-name="Xamarin.AndroidX.Fragment" mvid="fb0d21c232294ae2b44b8721025852fc" mvid-bytes="wiEN+yky4kq0S4chAlhS/A==">
+<api type="release" assembly-name="Xamarin.AndroidX.Fragment" mvid="37ce08a6a49f454c9b8b8fcf2c01c137">
+  <module assembly-name="Xamarin.AndroidX.Fragment" mvid="37ce08a6a49f454c9b8b8fcf2c01c137" mvid-bytes="pgjON5+kTEWbi4/PLAHBNw==">
     <duplicates>
       <entry java-name="androidx/fragment/app/FragmentContainer" managed-type-name="AndroidX.Fragment.App.FragmentContainerInvoker" token="33554472" />
       <entry java-name="androidx/fragment/app/FragmentHostCallback" managed-type-name="AndroidX.Fragment.App.FragmentHostCallbackInvoker" token="33554476" />

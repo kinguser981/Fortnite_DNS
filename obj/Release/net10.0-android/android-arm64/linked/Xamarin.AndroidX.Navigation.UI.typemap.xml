@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.Navigation.UI" mvid="b0fa72284dbf4e21945c901bb0b433d8">
-  <module assembly-name="Xamarin.AndroidX.Navigation.UI" mvid="b0fa72284dbf4e21945c901bb0b433d8" mvid-bytes="KHL6sL9NIU6UXJAbsLQz2A==">
+<api type="release" assembly-name="Xamarin.AndroidX.Navigation.UI" mvid="c2c8161d7f5b4e5aa87bbdac50d643ae">
+  <module assembly-name="Xamarin.AndroidX.Navigation.UI" mvid="c2c8161d7f5b4e5aa87bbdac50d643ae" mvid-bytes="HRbIwlt/Wk6oe72sUNZDrg==">
     <duplicates>
       <entry java-name="androidx/navigation/ui/AppBarConfiguration$OnNavigateUpListener" managed-type-name="AndroidX.Navigation.UI.AppBarConfiguration/IOnNavigateUpListenerInvoker" token="33554438" />
     </duplicates>

@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.Navigation.Fragment" mvid="6e4a4b729b624b2cb60f9878079c8177">
-  <module assembly-name="Xamarin.AndroidX.Navigation.Fragment" mvid="6e4a4b729b624b2cb60f9878079c8177" mvid-bytes="cktKbmKbLEu2D5h4B5yBdw==">
+<api type="release" assembly-name="Xamarin.AndroidX.Navigation.Fragment" mvid="ccb47a15b77a4581a39ce514bcd7890e">
+  <module assembly-name="Xamarin.AndroidX.Navigation.Fragment" mvid="ccb47a15b77a4581a39ce514bcd7890e" mvid-bytes="FXq0zHq3gUWjnOUUvNeJDg==">
     <types-scratch>
       <entry key="androidx/navigation/fragment/FragmentNavigator" java-name="androidx/navigation/fragment/FragmentNavigator" managed-type-name="AndroidX.Navigation.Fragment.FragmentNavigator" token="33554438" />
       <entry key="androidx/navigation/fragment/FragmentNavigator$Destination" java-name="androidx/navigation/fragment/FragmentNavigator$Destination" managed-type-name="AndroidX.Navigation.Fragment.FragmentNavigator/Destination" token="33554439" />

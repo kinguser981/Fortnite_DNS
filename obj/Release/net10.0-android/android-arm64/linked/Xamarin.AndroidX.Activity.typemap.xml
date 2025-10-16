@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.Activity" mvid="5c07b83a93a94555b9f0115306f27ca1">
-  <module assembly-name="Xamarin.AndroidX.Activity" mvid="5c07b83a93a94555b9f0115306f27ca1" mvid-bytes="OrgHXKmTVUW58BFTBvJ8oQ==">
+<api type="release" assembly-name="Xamarin.AndroidX.Activity" mvid="9c93340773294992aefd5ce96f54f20c">
+  <module assembly-name="Xamarin.AndroidX.Activity" mvid="9c93340773294992aefd5ce96f54f20c" mvid-bytes="BzSTnClzkkmu/Vzpb1TyDA==">
     <duplicates>
       <entry java-name="androidx/activity/OnBackPressedCallback" managed-type-name="AndroidX.Activity.OnBackPressedCallbackInvoker" token="33554451" />
       <entry java-name="androidx/activity/result/ActivityResultLauncher" managed-type-name="AndroidX.Activity.Result.ActivityResultLauncherInvoker" token="33554454" />

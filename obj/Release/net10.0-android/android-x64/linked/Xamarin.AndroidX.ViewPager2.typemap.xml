@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.ViewPager2" mvid="c5c83bb0046448c293f5541ac8c0b431">
-  <module assembly-name="Xamarin.AndroidX.ViewPager2" mvid="c5c83bb0046448c293f5541ac8c0b431" mvid-bytes="sDvIxWQEwkiT9VQayMC0MQ==">
+<api type="release" assembly-name="Xamarin.AndroidX.ViewPager2" mvid="911831e134e1410080b3ccbd330cf7a9">
+  <module assembly-name="Xamarin.AndroidX.ViewPager2" mvid="911831e134e1410080b3ccbd330cf7a9" mvid-bytes="4TEYkeE0AEGAs8y9Mwz3qQ==">
     <duplicates>
       <entry java-name="androidx/viewpager2/widget/ViewPager2$OnPageChangeCallback" managed-type-name="AndroidX.ViewPager2.Widget.ViewPager2/OnPageChangeCallbackInvoker" token="33554446" />
       <entry java-name="androidx/viewpager2/widget/ViewPager2$PageTransformer" managed-type-name="AndroidX.ViewPager2.Widget.ViewPager2/IPageTransformerInvoker" token="33554448" />

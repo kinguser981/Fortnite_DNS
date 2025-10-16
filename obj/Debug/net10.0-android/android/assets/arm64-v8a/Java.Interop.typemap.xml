@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="Java.Interop" mvid="81cfa5bbf11549248455c537e721346e">
+<api type="debug" assembly-name="Java.Interop" mvid="3a12f229a17d4a3483d8bc253f88464b">
   <java-to-managed>
     <entry java-name="[Ljava/lang/Object;" managed-name="Java.Interop.JavaArray`1, Java.Interop" skip-in-java-to-managed="True" managed-type-token-id="33554435" />
     <entry java-name="[Ljava/lang/Object;" managed-name="Java.Interop.JavaPrimitiveArray`1, Java.Interop" skip-in-java-to-managed="True" managed-type-token-id="33554437" />

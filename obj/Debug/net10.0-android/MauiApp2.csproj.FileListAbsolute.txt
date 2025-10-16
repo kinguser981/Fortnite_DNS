@@ -4094,7 +4094,6 @@ C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-androi
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc640ec207abc449b2ca\ShellSearchView_ClipDrawableWrapper.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc640ec207abc449b2ca\ShellSectionRenderer.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc640ec207abc449b2ca\ShellSectionRenderer_ViewPagerPageChanged.java
-C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc640ec207abc449b2ca\ShellSectionRenderer_WindowsListener.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc640ec207abc449b2ca\ShellToolbarTracker.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc640ec207abc449b2ca\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc640fd0ddb16fe433d4\TouchBehavior_AccessibilityListener.java
@@ -4272,13 +4271,11 @@ C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-androi
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc64f728827fec74e9c3\Toolbar_Container.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc64fcf28c0e24b4cc31\ButtonHandler_ButtonClickListener.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc64fcf28c0e24b4cc31\ButtonHandler_ButtonTouchListener.java
-C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc64fcf28c0e24b4cc31\FlyoutViewHandler_WindowsListener.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc64fcf28c0e24b4cc31\HybridWebViewHandler_HybridWebViewJavaScriptInterface.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc64fcf28c0e24b4cc31\SearchBarHandler_FocusChangeListener.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc64fcf28c0e24b4cc31\SliderHandler_SeekBarChangeListener.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc64fcf28c0e24b4cc31\SwitchHandler_CheckedChangeListener.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc64fcf28c0e24b4cc31\ToolbarHandler_ProcessBackClick.java
-C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc64fcf28c0e24b4cc31\WindowHandler_WindowsListener.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\microsoft\maui\essentials\fileProvider.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\microsoft\maui\platform\MauiNavHostFragment.java
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\microsoft\maui\R.java
@@ -4405,3 +4402,4 @@ C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-androi
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Samuel\source\repos\MauiApp2\MauiApp2\MauiApp2\obj\Debug\net10.0-android\android\src\crc6452ffdc5b34af3a0f\GlobalWindowInsetListener.java

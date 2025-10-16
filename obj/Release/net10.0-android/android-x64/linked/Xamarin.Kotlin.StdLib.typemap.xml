@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.Kotlin.StdLib" mvid="9bc1e0d54f5a42e5b67e678bcd2cb7e1">
-  <module assembly-name="Xamarin.Kotlin.StdLib" mvid="9bc1e0d54f5a42e5b67e678bcd2cb7e1" mvid-bytes="1eDBm1pP5UK2fmeLzSy34Q==">
+<api type="release" assembly-name="Xamarin.Kotlin.StdLib" mvid="e6e302ddff21444d97fd3a2281550ff1">
+  <module assembly-name="Xamarin.Kotlin.StdLib" mvid="e6e302ddff21444d97fd3a2281550ff1" mvid-bytes="3QLj5iH/TUSX/ToigVUP8Q==">
     <duplicates>
       <entry java-name="kotlin/Function" managed-type-name="Kotlin.IFunctionInvoker" token="33554449" />
       <entry java-name="kotlin/sequences/Sequence" managed-type-name="Kotlin.Sequences.ISequenceInvoker" token="33554451" />

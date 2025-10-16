@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.Navigation.Runtime.Android" mvid="c52a80d1957643edbb6712e17b285228">
-  <module assembly-name="Xamarin.AndroidX.Navigation.Runtime.Android" mvid="c52a80d1957643edbb6712e17b285228" mvid-bytes="0YAqxXaV7UO7ZxLheyhSKA==">
+<api type="release" assembly-name="Xamarin.AndroidX.Navigation.Runtime.Android" mvid="70a51b49971d4ee4a2f87d4b8aeb9c05">
+  <module assembly-name="Xamarin.AndroidX.Navigation.Runtime.Android" mvid="70a51b49971d4ee4a2f87d4b8aeb9c05" mvid-bytes="SRulcB2X5E6i+H1LiuucBQ==">
     <duplicates>
       <entry java-name="androidx/navigation/NavController$OnDestinationChangedListener" managed-type-name="AndroidX.Navigation.NavController/IOnDestinationChangedListenerInvoker" token="33554450" />
     </duplicates>

@@ -11,7 +11,7 @@ namespace MauiApp2;
     // === CONFIGURATION ===
         private const string RepoOwner = "kinguser981";
         private const string RepoName = "Fortnite_DNS";
-        private static readonly Version LocalVersion = new Version("3.1.0");
+        private static readonly Version LocalVersion = new Version("3.5.0");
     // =====================
  
     public CheakNewVersion()
@@ -55,16 +55,14 @@ namespace MauiApp2;
                     // Update available!
                     mylab.Text = $"✨ New version available: {latestGitHubVersion}!";
 
-                            
 
-                        // You can provide the user with the download URL
-                        await DisplayAlert(
-                            "Update Available",
-                            $"Please update to version {latestGitHubVersion}.",
-                            "OK");
-                            
-                    
-                    }
+
+                    // You can provide the user with the download URL
+                    // Page.DisplayAlert(string, string, string)' is obsolete: Useing DisplayAlertAsync instead
+                   // await DisplayAlert("Update Available",$"Please update to version {latestGitHubVersion}.","OK");
+                            await DisplayAlertAsync("✨Update Available", $"Please update to version {latestGitHubVersion}. To download the newest version. Click on Release.", "OK");
+
+                }
                     else
                     {
                     // Already up to date

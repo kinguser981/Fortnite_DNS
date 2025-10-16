@@ -11,10 +11,13 @@ public class MauiScrollView
 	public static final String __md_methods;
 	static {
 		__md_methods = 
+			"n_onAttachedToWindow:()V:GetOnAttachedToWindowHandler\n" +
+			"n_onDetachedFromWindow:()V:GetOnDetachedFromWindowHandler\n" +
 			"n_onInterceptTouchEvent:(Landroid/view/MotionEvent;)Z:GetOnInterceptTouchEvent_Landroid_view_MotionEvent_Handler\n" +
 			"n_onTouchEvent:(Landroid/view/MotionEvent;)Z:GetOnTouchEvent_Landroid_view_MotionEvent_Handler\n" +
 			"n_onMeasure:(II)V:GetOnMeasure_IIHandler\n" +
 			"n_onLayout:(ZIIII)V:GetOnLayout_ZIIIIHandler\n" +
+			"n_onConfigurationChanged:(Landroid/content/res/Configuration;)V:GetOnConfigurationChanged_Landroid_content_res_Configuration_Handler\n" +
 			"n_onScrollChange:(Landroidx/core/widget/NestedScrollView;IIII)V:GetOnScrollChange_Landroidx_core_widget_NestedScrollView_IIIIHandler:AndroidX.Core.Widget.NestedScrollView+IOnScrollChangeListenerInvoker, Xamarin.AndroidX.Core\n" +
 			"";
 		mono.android.Runtime.register ("Microsoft.Maui.Platform.MauiScrollView, Microsoft.Maui", MauiScrollView.class, __md_methods);
@@ -44,6 +47,20 @@ public class MauiScrollView
 		}
 	}
 
+	public void onAttachedToWindow ()
+	{
+		n_onAttachedToWindow ();
+	}
+
+	private native void n_onAttachedToWindow ();
+
+	public void onDetachedFromWindow ()
+	{
+		n_onDetachedFromWindow ();
+	}
+
+	private native void n_onDetachedFromWindow ();
+
 	public boolean onInterceptTouchEvent (android.view.MotionEvent p0)
 	{
 		return n_onInterceptTouchEvent (p0);
@@ -71,6 +88,13 @@ public class MauiScrollView
 	}
 
 	private native void n_onLayout (boolean p0, int p1, int p2, int p3, int p4);
+
+	public void onConfigurationChanged (android.content.res.Configuration p0)
+	{
+		n_onConfigurationChanged (p0);
+	}
+
+	private native void n_onConfigurationChanged (android.content.res.Configuration p0);
 
 	public void onScrollChange (androidx.core.widget.NestedScrollView p0, int p1, int p2, int p3, int p4)
 	{

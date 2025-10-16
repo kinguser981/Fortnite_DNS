@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.SavedState.SavedState.Android" mvid="a28f751fb84f4b8ba2f02c4075a54de8">
-  <module assembly-name="Xamarin.AndroidX.SavedState.SavedState.Android" mvid="a28f751fb84f4b8ba2f02c4075a54de8" mvid-bytes="H3WPok+4i0ui8CxAdaVN6A==">
+<api type="release" assembly-name="Xamarin.AndroidX.SavedState.SavedState.Android" mvid="b1e603ca40a04f809fcda2cfcd63e18d">
+  <module assembly-name="Xamarin.AndroidX.SavedState.SavedState.Android" mvid="b1e603ca40a04f809fcda2cfcd63e18d" mvid-bytes="ygPmsaBAgE+fzaLPzWPhjQ==">
     <duplicates>
       <entry java-name="androidx/savedstate/SavedStateRegistry$SavedStateProvider" managed-type-name="AndroidX.SavedState.SavedStateRegistry/ISavedStateProviderInvoker" token="33554437" />
     </duplicates>

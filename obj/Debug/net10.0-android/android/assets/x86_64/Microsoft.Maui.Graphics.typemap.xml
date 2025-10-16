@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="Microsoft.Maui.Graphics" mvid="1295b4e83cf84bd59f5353d023d7d9de">
+<api type="debug" assembly-name="Microsoft.Maui.Graphics" mvid="3030875f767a49aab001a124b15db792">
   <java-to-managed>
     <entry java-name="crc643f2b18b2570eaa5a/PlatformGraphicsView" managed-name="Microsoft.Maui.Graphics.Platform.PlatformGraphicsView, Microsoft.Maui.Graphics" managed-type-token-id="33554552" />
   </java-to-managed>

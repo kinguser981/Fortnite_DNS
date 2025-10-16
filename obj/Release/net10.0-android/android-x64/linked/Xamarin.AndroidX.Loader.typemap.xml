@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.Loader" mvid="1a93aecd8ae84383b48b967e8e2b0cd0">
-  <module assembly-name="Xamarin.AndroidX.Loader" mvid="1a93aecd8ae84383b48b967e8e2b0cd0" mvid-bytes="za6TGuiKg0O0i5Z+jisM0A==">
+<api type="release" assembly-name="Xamarin.AndroidX.Loader" mvid="db4a7443b0b34c4981a85de0a97eca42">
+  <module assembly-name="Xamarin.AndroidX.Loader" mvid="db4a7443b0b34c4981a85de0a97eca42" mvid-bytes="Q3RK27OwSUyBqF3gqX7KQg==">
     <duplicates>
       <entry java-name="androidx/loader/content/Loader$OnLoadCanceledListener" managed-type-name="AndroidX.Loader.Content.Loader/IOnLoadCanceledListenerInvoker" token="33554449" />
       <entry java-name="androidx/loader/content/Loader$OnLoadCompleteListener" managed-type-name="AndroidX.Loader.Content.Loader/IOnLoadCompleteListenerInvoker" token="33554451" />

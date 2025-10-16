@@ -1,5 +1,5 @@
-<api type="release" assembly-name="Xamarin.AndroidX.CoordinatorLayout" mvid="8e91932f9f5f418aac0625eed0632a42">
-  <module assembly-name="Xamarin.AndroidX.CoordinatorLayout" mvid="8e91932f9f5f418aac0625eed0632a42" mvid-bytes="L5ORjl+fikGsBiXu0GMqQg==">
+<api type="release" assembly-name="Xamarin.AndroidX.CoordinatorLayout" mvid="0e7fcd80f50449fb8caabc955e97e36a">
+  <module assembly-name="Xamarin.AndroidX.CoordinatorLayout" mvid="0e7fcd80f50449fb8caabc955e97e36a" mvid-bytes="gM1/DgT1+0mMqryVXpfjag==">
     <duplicates>
       <entry java-name="androidx/coordinatorlayout/widget/CoordinatorLayout$Behavior" managed-type-name="AndroidX.CoordinatorLayout.Widget.CoordinatorLayout/BehaviorInvoker" token="33554473" />
     </duplicates>

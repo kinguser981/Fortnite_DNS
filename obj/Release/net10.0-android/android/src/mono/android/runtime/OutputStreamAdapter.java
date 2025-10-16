@@ -11,7 +11,7 @@ public class OutputStreamAdapter
 	{
 		super ();
 		if (getClass () == OutputStreamAdapter.class) {
-			mono.android.TypeManager.Activate ("Android.Runtime.OutputStreamAdapter, Mono.Android", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Android.Runtime.OutputStreamAdapter, Mono.Android", "System.IO.Stream, System.Private.CoreLib", this, new java.lang.Object[] {  });
 		}
 	}
 
